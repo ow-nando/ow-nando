@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/ow-nando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ow-nando&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ow-nando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ow-nando&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
